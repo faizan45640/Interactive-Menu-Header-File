@@ -38,3 +38,13 @@ int main() {
 
     return 0;
 }
+```
+
+## Compatibilty
+- This library is designed for console-based applications.
+- Ensure compatibility with the _getch() function and consider platform-specific differences.
+
+## License
+
+Feel free to customize this template to fit your preferences and provide more details about the library's functionalities, examples, and any additional information you think would be helpful for users.
+
